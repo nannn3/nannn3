@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 -   * embedded systems programming in C
 -   * python programming
+-   * robotics
 - 🌱 I’m currently learning ...
 -   * C
 -   * Python
