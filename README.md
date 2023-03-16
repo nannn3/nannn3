@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning ...
 -   * C
 -   * Python
+-   * C++
+-   * Embedded Systems
+-   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
